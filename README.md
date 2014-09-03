@@ -22,7 +22,7 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
 ----------
 
 
-nullice 我的博客: www.Styletin.com
+nullice 我的博客: http://Styletin.com
 
 
 ----------
