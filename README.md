@@ -1,9 +1,8 @@
 **NViconsLib**_Silhouette
 =====================
 vector PSD and SVG Global Network Social Icon (Especially China )now
-
 ----------
-**105** vector Icons
+**105** vector Icons  | 150国内外社交网站矢量图标
 =====================
 
 
