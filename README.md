@@ -29,6 +29,7 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
  - Ver **1.1** (2014/9/5)
  增加56个图标，包括各主流网盘、音乐社区和多个日本社交网站
 共161个图标
+<br/>
 增加2个[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
 <BR/>
 1.[sample_0](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_0)
