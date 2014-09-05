@@ -73,7 +73,7 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
 
 > 收录图标列表 
 
-共161个 （v1.1 - 2014/9/5)
+共161个 （v1.1 - 2014/9/5) [预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
 
  - OS 
   - Xbox 
@@ -249,4 +249,3 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
   - ui.cn 
   - zcool 
 
-[预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
