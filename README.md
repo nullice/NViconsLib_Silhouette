@@ -50,10 +50,14 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
 >**版权**
 
 要注意，所用这里提供的图标的所用权都属于其各自服务商，不要用这些图标做侵害其原所有者权益的行为。
+[![23](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 <BR/>
 ----------
 
-[![23](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+
+![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/cover/nullice-LOGO--blog.png)
 
 图标收集\制作 **nullice** - [blog: Styletin.com](http://Styletin.com)
 
