@@ -18,7 +18,6 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
  - 覆盖主流网站图标（161 icons）
  - 大量中国国内网站图标（A lot of China network social icon）
  - 提供各种风格的[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)（Provide [Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample) ：PSD、PNG）
-
  <br/>
  
 >历史
@@ -28,11 +27,13 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
 共161个图标
 增加2个[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
 <BR/>
-[1.sample_0
-![sample_0](http://raw.github.com/nullice/NViconsLib_Silhouette/master/Sample/sample_0/cover.png)](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_0)
+1.[sample_0](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_0)
+
+![sample_0](http://raw.github.com/nullice/NViconsLib_Silhouette/master/Sample/sample_0/cover.png)
 <BR/>
-[2.sample_轻荷
-![sample_轻荷](http://raw.github.com/nullice/NViconsLib_Silhouette/master/Sample/sample_%E8%BD%BB%E8%8D%B7/cover.png)](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_%E8%BD%BB%E8%8D%B7)
+2.[sample_轻荷](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_%E8%BD%BB%E8%8D%B7)
+
+![sample_轻荷](http://raw.github.com/nullice/NViconsLib_Silhouette/master/Sample/sample_%E8%BD%BB%E8%8D%B7/cover.png)
 
 <BR/>
 
