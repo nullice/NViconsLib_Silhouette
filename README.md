@@ -248,3 +248,5 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
   - uehtml.com 
   - ui.cn 
   - zcool 
+
+[预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
