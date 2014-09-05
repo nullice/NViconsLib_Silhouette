@@ -13,15 +13,17 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
 
 这个项目目的是收集个社交网站LOGO的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的LOGO大多数都是自行绘制的。因为制作时比较赶时间，所以没有详细标注具体哪个是官方的哪个是自行绘制的，请见谅。
 
-
+<BR/>
 > 特性
 
  - 全矢量图标  （Vector : PSD、EPS、SVG)
  - 覆盖主流网站图标（161 icons）
  - 大量中国国内网站图标（A lot of China network social icon）
  - 提供各种风格的[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)（Provide [Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample) ：PSD、PNG）
+ 
  <br/>
  <BR/>
+
 >历史
 
  - Ver **1.1** (2014/9/5)
