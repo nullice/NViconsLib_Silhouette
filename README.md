@@ -21,7 +21,7 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
  - 大量中国国内网站图标（A lot of China network social icon）
  - 提供各种风格的[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)（Provide [Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample) ：PSD、PNG）
  <br/>
- 
+ <BR/>
 >历史
 
  - Ver **1.1** (2014/9/5)
@@ -42,16 +42,19 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
  - Ver **1.0** (2014/9/4)
  共105个图标
  
-
+<BR/>
 
 >**版权**
 
 要注意，所用这里提供的图标的所用权都属于其各自服务商，不要用这些图标做侵害其原所有者权益的行为。
-
+<BR/>
 ----------
+
 [![23](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 图标收集\制作 **nullice** - [blog: Styletin.com](http://Styletin.com)
+
+[![dribble](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_399.png)](https://dribbble.com/nullice) [![dribble](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_397.png)](http://nullice.deviantart.com/)
 
 
 ----------
