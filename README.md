@@ -32,7 +32,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 <br/>
 增加1个内容丰的[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
 <br/>
-1.[sample_flat](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_0)
+1.[sample_flat](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat)
 <BR/>
 ![sample_0](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_flat/cover_L_MINI.png)
 <BR/>
