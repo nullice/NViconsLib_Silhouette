@@ -2,9 +2,9 @@
  
 ![cover](http://raw.github.com/nullice/NViconsLib_Silhouette/master/cover/github_cover1.png)
 
-vector PSD and SVG Global Network Social Icon (Especially China )now
+vector PSD and SVG Global Network Social Icon (Especially China )
 
-**161** vector Icons  | 161个国内外社交网站矢量图标
+now **161** vector Icons  | 161个国内外社交网站矢量图标
 
 ----
 
@@ -26,6 +26,20 @@ vector PSD and SVG Global Network Social Icon (Especially China )now
 
 >历史
 
+
+ - Ver **1.2** (2014/9/6)
+修复BUG：改正last.fm图层名称,原来无写为lost.fm
+<br/>
+增加1个内容丰的[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
+<br/>
+1.[sample_flat](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_0)
+<BR/>
+![sample_0](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_flat/cover_L_MINI.png)
+<BR/>
+![sample_0](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_flat/cover.png)
+
+
+<br/>
  - Ver **1.1** (2014/9/5)
  增加56个图标，包括各主流网盘、音乐社区和多个日本社交网站
 共161个图标
