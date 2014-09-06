@@ -28,7 +28,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 
 
  - Ver **1.2** (2014/9/6)
-修复BUG：改正last.fm图层名称,原来无写为lost.fm
+修复BUG：改正last.fm图层名称,原来写为lost.fm
 <br/>
 增加1个内容丰的[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
 <br/>
