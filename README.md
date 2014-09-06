@@ -211,7 +211,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
   - Instagram 
   - Instapaper 
   - linkedin 
-  - lost.fm 
+  - last.fm 
   - mail 
   - medium 
   - onedrive  
