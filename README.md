@@ -40,6 +40,8 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 <BR/>
 [示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)是使用本项目图标制作的带效果的成品，带有PSD或AI源文件和已经导出可供直接使用的各尺寸位图。
 
+<br/>
+<br/>
 >历史
 
  - Ver **1.2b** (2014/12/25)
@@ -79,7 +81,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
  共105个图标
  
 <BR/>
-
+<br/>
 >**版权**
 
 要注意，所用这里提供的图标的所用权都属于其各自服务商，不要用这些图标做侵害其原所有者权益的行为。
