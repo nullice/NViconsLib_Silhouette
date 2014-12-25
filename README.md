@@ -1,6 +1,6 @@
 #**NViconsLib**_Silhouette#
  
-![cover](http://raw.github.com/nullice/NViconsLib_Silhouette/master/cover/github_cover1.png)
+![cover](http://raw.github.com/nullice/NViconsLib_Silhouette/master/cover/github_cover2.png)
 
 vector PSD and SVG Global Network Social Icon (Especially China )
 
