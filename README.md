@@ -27,15 +27,16 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 <br/>
 <br/>
 
+
+
 >历史
 
  - Ver **1.2b** (2014/12/25)
-修复BUG：修复朋友圈图标曲线有扭曲的BUG
+修复BUG：修复朋友圈图标曲线有扭曲的BUG；并更新README.md；
 <br/>
-更新：封面图
- <br/>
+<br/>
  - Ver **1.2** (2014/9/6)
-修复BUG：改正last.fm图层名称,原来写为lost.fm
+修复BUG：改正last.fm图层名称,原来写为lost.fm；
 <br/>
 增加1个内容丰的[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
 <br/>
