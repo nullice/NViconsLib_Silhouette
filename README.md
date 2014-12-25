@@ -27,7 +27,18 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 <br/>
 <br/>
 
+>使用
 
+本项目分为
+
+- 1.矢量图标
+<BR/>
+只有轮廓的矢量图标。
+所有矢量图标集中存放在[Main_[All_in_One].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd)中，[eps](https://github.com/nullice/NViconsLib_Silhouette/tree/master/eps)、[png](https://github.com/nullice/NViconsLib_Silhouette/tree/master/png)、[psd](https://github.com/nullice/NViconsLib_Silhouette/tree/master/psd)、[svg](https://github.com/nullice/NViconsLib_Silhouette/tree/master/svg)文件夹中是各个矢量图标单独保存的副本。
+
+- 2.示例(Sample)
+<BR/>
+[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)是使用本项目图标制作的带效果的成品，带有PSD或AI源文件和已经导出可供直接使用的各尺寸位图。
 
 >历史
 
