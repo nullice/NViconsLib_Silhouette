@@ -46,9 +46,9 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 
  - Ver **1.3** (2014/12/31)
 重新转换了不带剪切蒙版 SVG格式 解决在一些Icon font制作平台无法使用带剪切蒙版SVG的问题；
-<br/>增加 艺术社区 Deviantart 的新LOGO；
-<br/>增加 俄罗斯社交网站 vk.com 的LOGO ；
-<br/>增加 国内在线代码托管 coding 的LOGO；
+<br/>增加 [艺术社区 Deviantart 的新LOGO](https://github.com/nullice/NViconsLib_Silhouette/raw/master/png/DESIGN_deviantart_2014.png)；
+<br/>增加 [俄罗斯社交网站 vk.com 的LOGO](https://github.com/nullice/NViconsLib_Silhouette/raw/master/png/POP_vk.png) ；
+<br/>增加 [国内在线代码托管平台 coding 的LOGO](https://github.com/nullice/NViconsLib_Silhouette/raw/master/png/CN_coding.net.png)；
 <br/>修复 reddit LOGO耳朵错误的BUG；
 <br/>加上本次增加的3个LOGO，目前共有164个LOGO了；
 
