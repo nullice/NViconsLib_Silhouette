@@ -44,8 +44,14 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 <br/>
 >历史
 
- - Ver **1.3** (working...)
- 目前的svg格式是带剪切蒙版的，这样在制作字体图标时会遇到问题，正在重新转换格式中.....
+ - Ver **1.3** (2014/12/31)
+重新转换了不带剪切蒙版 SVG格式 解决在一些Icon font制作平台无法使用带剪切蒙版SVG的问题；
+<br/>增加 艺术社区 Deviantart 的新LOGO；
+<br/><br/>增加 俄罗斯社交网站 vk.com 的LOGO ；
+<br/>增加 国内在线代码托管 coding 的LOGO；
+<br/>修复 reddit LOGO耳朵错误的BUG；
+<br/>加上本次增加的3个LOGO，目前共有164个LOGO了；
+
 <br/>
 <br/>
  - Ver **1.2b** (2014/12/25)
