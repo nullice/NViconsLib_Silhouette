@@ -12,7 +12,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 
 这个项目目的是收集各个社交网站LOGO的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的LOGO大多数都是自行绘制而非官方的。因为制作时比较赶时间，所以没有详细标注具体哪个是官方的哪个是自行绘制的，请见谅。
 <br/>
-中国大陆访问Github较慢，故提供**网盘下载**： [NViconsLib_Silhouette_161_Ver1.2](http://pan.baidu.com/s/1o6ohArw)
+中国大陆访问Github较慢，故提供**网盘下载**： [NViconsLib_Silhouette_161_Ver1.3](http://pan.baidu.com/s/18jcWe)
 <br/>
 
 
