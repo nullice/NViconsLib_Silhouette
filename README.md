@@ -150,6 +150,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
   - bilibili - 哔哩哔哩
   - cnblogs - 博客园
   - csdn.net - csdn.net
+  - coding.net
   - dewen.io - 德问
   - dgtle.com - 数字尾巴
   - diandian - 点点
@@ -263,6 +264,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
   - tumblr 
   - Twitter - 推特
   - vimeo
+  - vk.com
   - Wikipedia - 维基百科
   - WordPress
   - YouTube
@@ -281,7 +283,8 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
  - DESIGN
   - Behance 
   - codepen 
-  - deviantart  
+  - deviantart
+  - deviantart2014 
   - Dribbble 
   - dropr 
   - Forrst 
