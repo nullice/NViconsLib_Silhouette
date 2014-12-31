@@ -1,0 +1,177 @@
+﻿[OS] 
+Xbox 
+Android 
+Apple 
+Blackberry 
+Linux  Gnome 
+Linux Red hat 
+Linux ubuntu 
+Linux 
+OS X B 
+OS X 
+Symbian S60 
+Windows 
+
+
+[CN]
+15yan - 十五言
+115 - 115网盘
+acfun.tv
+aiku.me - 爱库
+appinn.com - 小众软件
+baidu pan - 百度云盘
+baidu tieba - 百度 贴吧
+baidu - 百度
+bilibili B - 哔哩哔哩 B
+bilibili - 哔哩哔哩
+cnblogs - 博客园
+csdn.net - csdn.net
+coding.net
+dewen.io - 德问
+dgtle.com - 数字尾巴
+diandian - 点点
+douban artists - 豆瓣 artists
+douban B - 豆瓣 B
+douban FM - 豆瓣 FM
+douban group - 豆瓣小组
+douban movie - 豆瓣电影
+douban - 豆瓣
+duitang - 堆糖
+guokr - 果壳网
+hexieshe.com - 和邪社
+huaban - 花瓣网
+Huawei dbank - 华为网盘
+hujiang - 沪江网
+ituring - 图灵社区
+jianshu - 简书
+meile - 美乐网
+mknote - 麦库笔记
+moko.cc - 美空
+momo - 陌陌
+mop.com - 猫扑
+mtime.com - 时光网
+NetEase lofter - 网易 lofter
+NetEase music - 网易 音乐
+NetEase weibo - 网易 微博
+NetEase youdao note - 网易 有道云笔记
+papa.me - 啪啪
+Qihoo 360 yunpan -  奇虎360云盘
+qngoo.com - 青果社区
+renren xiaozhan - 人人网 小站
+renren - 人人网
+sina weibo vdisk - 新浪 微博 微盘
+sina weibo - 新浪 微博
+Sohu kan - 搜狐随身看
+taobao wangwang - 淘宝 阿里旺旺
+taobao - 淘宝
+tencent pengyou - 腾讯 朋友
+tencent QQ music - 腾讯 QQ音乐
+tencent QQ - 腾讯 QQ
+tencent qzone - 腾讯 QQ空间
+tencent video  - 腾讯 视频
+tencent wechat moments - 腾讯 微信 朋友圈
+tencent wechat - 腾讯 微信
+tencent weibo B - 腾讯 微博 B
+tencent weibo - 腾讯 微博
+Tencent weiyun - 腾讯 微云网盘
+tencent - 腾讯
+tianya.cn - 天涯
+tmall - 天猫
+tuchong - 图虫
+tudou - 土豆
+V2EX
+Wiz note - 为知笔记
+xiami.com - 虾米
+xianguo - xianguo
+xunlei B - 迅雷 B
+xunlei C - 迅雷 C
+xunlei - 迅雷
+yinyuetai - 音悦台
+youku B - 优酷 B
+youku - 优酷
+ZAKER - ZAKER
+zhihu - 知乎
+ 
+ 
+[POP] 
+1x 
+500px Full 
+500px 
+aim 
+Blogger 
+box B 
+box 
+Delicious 
+digg 
+dropbox 
+evernote 
+Facebook  
+Feedly 
+flickr 
+Flipboard 
+foursquare 
+FriendFeed 
+G+ 
+GitHub 
+Gmail 
+google drive 
+Google Picasa 
+grooveshark 
+IFTTT 
+Instagram 
+Instapaper 
+linkedin 
+last.fm 
+mail 
+medium 
+onedrive  
+onenote 
+Path 
+Pinterest 
+Pocket 
+Quora 
+Readability 
+reddit 
+RSS 
+Skype 
+Soundcloud 
+stackoverflow 
+Stumble 
+Technorati 
+tumblr 
+Twitter - 推特
+vimeo
+vk.com
+Wikipedia - 维基百科
+WordPress
+YouTube
+ 
+ 
+[JP] 
+gree 
+Hatena Blog 
+Hatena bookmark 
+Line 
+mixi 
+niconico 
+Ameba 
+ 
+
+[DESIGN] 
+Behance 
+codepen 
+deviantart
+deviantart2014
+Dribbble 
+dropr 
+Forrst 
+gameui.cn 
+jaypeg 
+Loveui.cn 
+pixelapse 
+Pixiv 
+poocg.com 
+shijue.me 
+uehtml.com 
+ui.cn 
+zcool 
