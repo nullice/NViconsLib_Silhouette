@@ -51,7 +51,6 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 <br/>增加 [国内在线代码托管平台 coding 的LOGO](https://github.com/nullice/NViconsLib_Silhouette/raw/master/png/CN_coding.net.png)；
 <br/>修复 reddit LOGO耳朵错误的BUG；
 <br/>加上本次增加的3个LOGO，目前共有164个LOGO了；
-
 <br/>
 <br/>
  - Ver **1.2b** (2014/12/25)
