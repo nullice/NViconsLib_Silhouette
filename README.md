@@ -4,15 +4,15 @@
 
 vector PSD and SVG Global Network Social Icon (Especially China )
 
-now **161** vector Icons  | 161个国内外社交网站矢量图标
+now **161** vector Icons  | 161 个国内外社交网站矢量图标
 
 ----
 
-制作网页、UI时常常会用到一些社交网站比如微博、微信、Facebook、Dribbble的LOGO，国际化的网站往往都提供了官方的矢量LOGO。而国内网站除了腾讯、新浪、阿里巴巴等少数提供了官方的矢量LOGO，其他的连一张尺寸大点的LOGO图片都很难寻找。
+制作网页、UI时常常会用到一些社交网站比如微博、微信、Facebook、Dribbble 的 LOGO，国际化的网站往往都提供了官方的矢量 LOGO。而国内网站除了腾讯、新浪、阿里巴巴等少数提供了官方的矢量 LOGO，其他的连一张尺寸大点的 LOGO 图片都很难寻找。
 
-这个项目目的是收集各个社交网站LOGO的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的LOGO大多数都是自行绘制而非官方的。因为制作时比较赶时间，所以没有详细标注具体哪个是官方的哪个是自行绘制的，请见谅。
+这个项目目的是收集各个社交网站 LOGO 的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的 LOGO 大多数都是自行绘制而非官方的。因为制作时比较赶时间，所以没有详细标注具体哪个是官方的哪个是自行绘制的，请见谅。
 <br/>
-中国大陆访问Github较慢，故提供**网盘下载**： [NViconsLib_Silhouette_161_Ver1.3](http://pan.baidu.com/s/18jcWe)
+中国大陆访问 Github 较慢，故提供**网盘下载**： [NViconsLib_Silhouette_161_Ver1.3](http://pan.baidu.com/s/18jcWe)
 <br/>
 
 
@@ -38,29 +38,29 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 
 - 2.示例(Sample)
 <BR/>
-[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)是使用本项目图标制作的带效果的成品，带有PSD或AI源文件和已经导出可供直接使用的各尺寸位图。
+[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)是使用本项目图标制作的带效果的成品，带有PSD或AI源文件和已经导出可供直接使用的各尺寸 PNG 位图。
 
 <br/>
 <br/>
 >历史
 
  - Ver **1.3** (2014/12/31)
-重新转换了不带剪切蒙版 SVG格式 解决在一些Icon font制作平台无法使用带剪切蒙版SVG的问题；
+重新转换了不带剪切蒙版 SVG 格式 解决在一些 Icon font 制作平台无法使用带剪切蒙版SVG的问题；
 <br/>增加 [艺术社区 Deviantart 的新LOGO](https://github.com/nullice/NViconsLib_Silhouette/raw/master/png/DESIGN_deviantart_2014.png)；
 <br/>增加 [俄罗斯社交网站 vk.com 的LOGO](https://github.com/nullice/NViconsLib_Silhouette/raw/master/png/POP_vk.png) ；
 <br/>增加 [国内在线代码托管平台 coding 的LOGO](https://github.com/nullice/NViconsLib_Silhouette/raw/master/png/CN_coding.net.png)；
-<br/>修复 reddit LOGO耳朵错误的BUG；
-<br/>加上本次增加的3个LOGO，目前共有164个LOGO了；
+<br/>修复 reddit LOGO 耳朵错误的BUG；
+<br/>加上本次增加的 3 个 LOGO，目前共有 164 个LOGO 了；
 <br/>
 <br/>
  - Ver **1.2b** (2014/12/25)
-修复BUG：修复朋友圈图标曲线有扭曲的BUG；并更新README.md；
+修复BUG：修复朋友圈图标曲线有扭曲的BUG；并更新 README.md；
 <br/>
 <br/>
  - Ver **1.2** (2014/9/6)
-修复BUG：改正last.fm图层名称,原来写为lost.fm；
+修复 BUG：改正 last.fm 图层名称,原来写为 lost.fm；
 <br/>
-增加1个内容丰的[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
+增加 1 个内容丰富的[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
 <br/>
 1.[sample_flat](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat)
 <BR/>
@@ -71,10 +71,10 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 
 <br/>
  - Ver **1.1** (2014/9/5)
- 增加56个图标，包括各主流网盘、音乐社区和多个日本社交网站
-共161个图标
+ 增加 56 个图标，包括各主流网盘、音乐社区和多个日本社交网站
+共 161 个图标
 <br/>
-增加2个[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
+增加 2 个[Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：
 <BR/>
 1.[sample_0](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_0)
 <BR/>
@@ -87,7 +87,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 <BR/>
 
  - Ver **1.0** (2014/9/4)
- 共105个图标
+ 共 105 个图标
  
 <BR/>
 <br/>
@@ -95,7 +95,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 
 任何人都可以使用本项目图标用在任何地方，为了帮助到更多人请注明出处和署名。
 
-但要注意，所用这里提供的图标的所用权都属于其各自服务商，不要用这些图标做侵害其原所有者权益的行为，商业使用请征询各商标原所有者。
+但要注意，所用这里提供的图标的所有权都属于其各自服务商，不要用这些图标做侵害其原所有者权益的行为，商业使用请征询各商标原所有者。
 
 [![23](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -120,7 +120,7 @@ now **161** vector Icons  | 161个国内外社交网站矢量图标
 
 > 收录图标列表 
 
-共164个 （v1.3 - 2014/12/31) [预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
+共 164 个 （v1.3 - 2014/12/31) [预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
 
  - OS 
   - Xbox 
