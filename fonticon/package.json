@@ -1,0 +1,15 @@
+{
+  "name": "nviconslib",
+  "description": "vector PSD and SVG Global Network Social Icon (Especially China )",
+  "version": "0.0.1",
+  "repository": "https://github.com/nullice/NViconsLib_Silhouette.git",
+  "devDependencies": {
+    "gulp-consolidate": "^0.1.2",
+    "gulp-iconfont": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "lodash": "^3.7.0"
+  },
+  "dependencies": {
+    "gulp": "^3.8.10"
+  }
+}

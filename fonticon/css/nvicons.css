@@ -1,0 +1,198 @@
+@font-face {
+  font-family: "nvicons";
+  src: url('../font/nvicons.eot');
+  src: url('../font/nvicons.eot?#iefix') format('eot'),
+    url('../font/nvicons.woff') format('woff'),
+    url('../font/nvicons.ttf') format('truetype'),
+    url('../font/nvicons.svg#nvicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.nv:before {
+  display: inline-block;
+  font-family: "nvicons";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nv-lg {
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.nv-2x { font-size: 2em; }
+.nv-3x { font-size: 3em; }
+.nv-4x { font-size: 4em; }
+.nv-5x { font-size: 5em; }
+.nv-fw {
+  width: 1.2857142857142858em;
+  text-align: center;
+}
+
+.nv-115:before { content: "\E001" }
+.nv-15yan:before { content: "\E002" }
+.nv-1x:before { content: "\E003" }
+.nv-500px-full:before { content: "\E004" }
+.nv-500px:before { content: "\E005" }
+.nv-acfun:before { content: "\E006" }
+.nv-aiku:before { content: "\E007" }
+.nv-aim:before { content: "\E008" }
+.nv-ameba:before { content: "\E009" }
+.nv-android:before { content: "\E00A" }
+.nv-appinn:before { content: "\E00B" }
+.nv-apple:before { content: "\E00C" }
+.nv-baidu-pan:before { content: "\E00D" }
+.nv-baidu:before { content: "\E00E" }
+.nv-behance:before { content: "\E00F" }
+.nv-bilibili-b:before { content: "\E010" }
+.nv-bilibili:before { content: "\E011" }
+.nv-blackberry:before { content: "\E012" }
+.nv-blogger:before { content: "\E013" }
+.nv-box-b:before { content: "\E014" }
+.nv-box:before { content: "\E015" }
+.nv-cnblogs:before { content: "\E016" }
+.nv-codepen:before { content: "\E017" }
+.nv-coding:before { content: "\E018" }
+.nv-csdn:before { content: "\E019" }
+.nv-dbank:before { content: "\E01A" }
+.nv-delicious:before { content: "\E01B" }
+.nv-deviantart-2014:before { content: "\E01C" }
+.nv-deviantart:before { content: "\E01D" }
+.nv-dewen:before { content: "\E01E" }
+.nv-dgtle-com:before { content: "\E01F" }
+.nv-diandian:before { content: "\E020" }
+.nv-digg:before { content: "\E021" }
+.nv-douban-artists:before { content: "\E022" }
+.nv-douban-fm:before { content: "\E023" }
+.nv-douban-group:before { content: "\E024" }
+.nv-douban-movie:before { content: "\E025" }
+.nv-douban:before { content: "\E026" }
+.nv-dribbble:before { content: "\E027" }
+.nv-dropbox:before { content: "\E028" }
+.nv-dropr:before { content: "\E029" }
+.nv-duitang:before { content: "\E02A" }
+.nv-evernote:before { content: "\E02B" }
+.nv-facebook:before { content: "\E02C" }
+.nv-feedly:before { content: "\E02D" }
+.nv-flickr:before { content: "\E02E" }
+.nv-flipboard:before { content: "\E02F" }
+.nv-forrst:before { content: "\E030" }
+.nv-foursquare:before { content: "\E031" }
+.nv-friendfeed:before { content: "\E032" }
+.nv-gameui:before { content: "\E033" }
+.nv-gitHub:before { content: "\E034" }
+.nv-gmail:before { content: "\E035" }
+.nv-google-drive:before { content: "\E036" }
+.nv-gplus:before { content: "\E037" }
+.nv-gree:before { content: "\E038" }
+.nv-grooveshark:before { content: "\E039" }
+.nv-guokr:before { content: "\E03A" }
+.nv-hatena-blog:before { content: "\E03B" }
+.nv-hatena-bookmark:before { content: "\E03C" }
+.nv-hexieshe:before { content: "\E03D" }
+.nv-huaban:before { content: "\E03E" }
+.nv-hujiang:before { content: "\E03F" }
+.nv-ifttt:before { content: "\E040" }
+.nv-instagram:before { content: "\E041" }
+.nv-instapaper:before { content: "\E042" }
+.nv-ituring:before { content: "\E043" }
+.nv-jaypeg:before { content: "\E044" }
+.nv-jianshu:before { content: "\E045" }
+.nv-last-fm:before { content: "\E046" }
+.nv-line:before { content: "\E047" }
+.nv-linkedin:before { content: "\E048" }
+.nv-linux -gnome:before { content: "\E049" }
+.nv-linux:before { content: "\E04A" }
+.nv-lofter:before { content: "\E04B" }
+.nv-loveui:before { content: "\E04C" }
+.nv-mail:before { content: "\E04D" }
+.nv-medium:before { content: "\E04E" }
+.nv-meile:before { content: "\E04F" }
+.nv-mixi:before { content: "\E050" }
+.nv-mknote:before { content: "\E051" }
+.nv-moko:before { content: "\E052" }
+.nv-momo:before { content: "\E053" }
+.nv-mop:before { content: "\E054" }
+.nv-mtime:before { content: "\E055" }
+.nv-netease-music:before { content: "\E056" }
+.nv-netease-weibo:before { content: "\E057" }
+.nv-niconico:before { content: "\E058" }
+.nv-onedrive:before { content: "\E059" }
+.nv-onenote:before { content: "\E05A" }
+.nv-osx-b:before { content: "\E05B" }
+.nv-osx:before { content: "\E05C" }
+.nv-papa:before { content: "\E05D" }
+.nv-path:before { content: "\E05E" }
+.nv-pengyou:before { content: "\E05F" }
+.nv-picasa:before { content: "\E060" }
+.nv-pinterest:before { content: "\E061" }
+.nv-pixelapse:before { content: "\E062" }
+.nv-pixiv:before { content: "\E063" }
+.nv-pocket:before { content: "\E064" }
+.nv-poocg:before { content: "\E065" }
+.nv-qngoo:before { content: "\E066" }
+.nv-qq:before { content: "\E067" }
+.nv-qqmusic:before { content: "\E068" }
+.nv-quora:before { content: "\E069" }
+.nv-qzone:before { content: "\E06A" }
+.nv-readability:before { content: "\E06B" }
+.nv-reddit:before { content: "\E06C" }
+.nv-redhat:before { content: "\E06D" }
+.nv-renren:before { content: "\E06E" }
+.nv-rss:before { content: "\E06F" }
+.nv-s60:before { content: "\E070" }
+.nv-shijue:before { content: "\E071" }
+.nv-skype:before { content: "\E072" }
+.nv-sohu-kan:before { content: "\E073" }
+.nv-soundcloud:before { content: "\E074" }
+.nv-stackoverflow:before { content: "\E075" }
+.nv-stumble:before { content: "\E076" }
+.nv-taobao:before { content: "\E077" }
+.nv-technorati:before { content: "\E078" }
+.nv-tencent-video:before { content: "\E079" }
+.nv-tencent-weibo-b:before { content: "\E07A" }
+.nv-tencent-weibo:before { content: "\E07B" }
+.nv-tencent:before { content: "\E07C" }
+.nv-thuner-b:before { content: "\E07D" }
+.nv-thuner:before { content: "\E07E" }
+.nv-tianya:before { content: "\E07F" }
+.nv-tieba:before { content: "\E080" }
+.nv-tmall:before { content: "\E081" }
+.nv-tuchong:before { content: "\E082" }
+.nv-tudou:before { content: "\E083" }
+.nv-tumblr:before { content: "\E084" }
+.nv-twitter:before { content: "\E085" }
+.nv-ubuntu:before { content: "\E086" }
+.nv-uehtml:before { content: "\E087" }
+.nv-ui-cn:before { content: "\E088" }
+.nv-v2ex:before { content: "\E089" }
+.nv-vdisk:before { content: "\E08A" }
+.nv-vimeo:before { content: "\E08B" }
+.nv-vk-com:before { content: "\E08C" }
+.nv-wangwang:before { content: "\E08D" }
+.nv-wechat-moments:before { content: "\E08E" }
+.nv-wechat:before { content: "\E08F" }
+.nv-weibo:before { content: "\E090" }
+.nv-weiyun:before { content: "\E091" }
+.nv-wikipedia:before { content: "\E092" }
+.nv-windows:before { content: "\E093" }
+.nv-wiz-note:before { content: "\E094" }
+.nv-wordPress:before { content: "\E095" }
+.nv-xbox:before { content: "\E096" }
+.nv-xiami:before { content: "\E097" }
+.nv-xianguo:before { content: "\E098" }
+.nv-xiaozhan:before { content: "\E099" }
+.nv-xunlei:before { content: "\E09A" }
+.nv-yinyuetai:before { content: "\E09B" }
+.nv-youTube:before { content: "\E09C" }
+.nv-youdao-note:before { content: "\E09D" }
+.nv-youku-b:before { content: "\E09E" }
+.nv-youku:before { content: "\E09F" }
+.nv-yunpan:before { content: "\E0A0" }
+.nv-zaker:before { content: "\E0A1" }
+.nv-zcool:before { content: "\E0A2" }
+.nv-zhihu:before { content: "\E0A3" }
