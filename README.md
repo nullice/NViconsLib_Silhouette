@@ -25,12 +25,14 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
  - 覆盖主流网站图标（189 icons）
  - 大量中国国内网站图标（A lot of China network social icon）
  - 提供各种风格的[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)（Provide [Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample) ：PSD、PNG）
+
+![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/cover/cover_V2_B.png)
  
 <br/>
 <br/>
 <br/>
 
->使用
+>#使用
 
 本项目分为
 
@@ -54,7 +56,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 <br/>
 <br/>
->历史
+>#历史
 
 -  Ver **2.0** (2015/6/22)
 <br/>加上本次增加的 3 个 LOGO，目前共有 164 个LOGO 了；
@@ -139,7 +141,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
  
 <BR/>
 <br/>
->**版权**
+>#版权 
 
 任何人都可以使用本项目图标用在任何地方，为了帮助到更多人请注明出处和署名。
 
