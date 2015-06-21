@@ -68,30 +68,8 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_flat_2/cover.png)
 
-
 <br/>增加 28 个新图标，总数增加到 189 个；
-- xiami music app - 虾米音乐 app
-- Alibabai Aliyun - 阿里巴巴 阿里云
-- Alibabai Alipay - 阿里巴巴 支付宝
-- Alibabai Laiwang - 阿里巴巴 来往
-- gold.xitu.io - 稀土 掘金
-- xitu.io - 稀土
-- douban Read - 豆瓣阅读
-- coolapk.com CoolMarket - 酷安网 酷市场
-- wandoujia.com - 豌豆荚
-- baidu shouji - 手机助手
-- Qihoo 360 sj - 360 手机助手
-- tencent tmyapp - 腾讯应用宝
-- kingsoft wps office - 金山 WPS
-- Qihoo 360 yunpan nwe - 360云盘 新版
-- xiaomi - 小米
-- Uber
-- spotify.com
-- steam game
-- Google Play
-- Windows Store App
-- Microsoft Zune
-- Microsoft Outlook
+
 <br/>
 
  - Ver **1.3** (2014/12/31)
