@@ -14,7 +14,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 这个项目目的是收集各个社交网站 LOGO 的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的 LOGO 大多数都是自行绘制而非官方发布的。
 <br/>
-中国大陆访问 Github 较慢，故提供**网盘下载**： [NViconsLib_Silhouette_161_Ver1.3](http://pan.baidu.com/s/18jcWe)
+中国大陆访问 Github 较慢，故提供**网盘下载**： [NViconsLib_Silhouette_189_Ver2.0](http://pan.baidu.com/s/1mgnC3I4)
 <br/>
 
 
@@ -44,7 +44,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 [eps](https://github.com/nullice/NViconsLib_Silhouette/tree/master/eps)、[png](https://github.com/nullice/NViconsLib_Silhouette/tree/master/png)、[psd](https://github.com/nullice/NViconsLib_Silhouette/tree/master/psd)、[svg](https://github.com/nullice/NViconsLib_Silhouette/tree/master/svg) 文件夹中是 [Main_[All_in_One].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd) 中各个矢量图标单独保存的副本。
 <BR/>
 [**Main_2_[MX].psd**](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd)
-中存放着平铺排列的所有图标，而且有配色和阴影、底部等效果的模板，并已经有切片可以简单调整就可以用导出为[示例 sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)中的效果
+中存放着平铺排列的所有矢量图标，而且有配色和阴影、底部等效果的模板，并已经有切片可以简单调整就可以用导出为[示例 sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)中的效果
 
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_2.png)
 
