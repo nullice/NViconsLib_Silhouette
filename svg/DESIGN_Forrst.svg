@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 83.114 122.053" style="enable-background:new 0 0 83.114 122.053;" xml:space="preserve">
-<path style="fill:#5B5C5C;" d="M41.656,0L0,100.117l31.557-0.09v22l21.043,0.027v-21.937h30.514L41.656,0z M46.557,85.027v15v16h-9
-	v-17v-18l-11.118-8.694l1.803-2.465l9.315,7.159v-20h9v12l9.427-4.213l1.363,2.73l-10.789,5.483v8l17.073-8.186l1.363,2.73
-	L46.557,85.027z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="26" height="38" viewBox="0 0 26 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M13.000,-0.000 L-0.000,31.000 L9.992,30.991 L10.000,38.000 L16.000,38.000 L16.000,31.000 L26.000,31.000 L13.000,-0.000 ZM14.000,27.000 L14.000,31.000 L14.000,36.000 L12.000,36.000 L12.000,31.000 L12.000,26.000 L8.428,22.479 L8.987,21.715 L12.000,24.000 L12.000,18.000 L14.000,18.000 L14.000,21.000 L17.590,20.147 L17.982,21.225 L14.000,23.000 L14.000,25.000 L19.962,22.637 L20.384,23.483 L14.000,27.000 Z" class="cls-1"/>
 </svg>
