@@ -58,8 +58,8 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 -  Ver **2.0** (2015/6/22)
 <br/>加上本次增加的 3 个 LOGO，目前共有 164 个LOGO 了；
-<br/>增加 [Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 方便制作成品图标
-<br/>[Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 和新的 [sample_flat2](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)根据 64 px 为基准(依然是矢量的)对齐了像素
+<br/>增加 [Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 方便制作成品图标；
+<br/>[Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 和新的 [sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)根据 64 px 为基准(依然是矢量的)对齐了像素；
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_1.png)
 
 <br/>更新 [示例 Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：[Sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)
