@@ -1,29 +1,32 @@
 #**NViconsLib**_Silhouette#
  
-![cover](http://raw.github.com/nullice/NViconsLib_Silhouette/master/cover/github_cover2.png)
+![cover](https://github.com/nullice/NViconsLib_Silhouette/raw/master/cover/github_cover_V2.0_720.png)
 
 vector PSD and SVG Global Network Social Icon (Especially China )
 
-now **161** vector Icons  | 161 个国内外社交网站矢量图标
+now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 ----
+2132122
+![2222](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_%E9%98%B4%E5%BD%B1_%E6%9E%81%E6%B5%85/64px/Technorati.png)
 
 制作网页、UI时 常常会用到一些社交网站比如微博、微信、Facebook、Dribbble 的 LOGO，国际化的网站往往都提供了官方的矢量 LOGO。而国内网站除了腾讯、新浪、阿里巴巴等少数提供了官方的矢量 LOGO，其他的连一张尺寸大点的 LOGO 图片都很难寻找。
 
-这个项目目的是收集各个社交网站 LOGO 的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的 LOGO 大多数都是自行绘制而非官方的。因为制作时比较赶时间，所以没有详细标注具体哪个是官方的哪个是自行绘制的，请见谅。
+这个项目目的是收集各个社交网站 LOGO 的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的 LOGO 大多数都是自行绘制而非官方发布的。
 <br/>
 中国大陆访问 Github 较慢，故提供**网盘下载**： [NViconsLib_Silhouette_161_Ver1.3](http://pan.baidu.com/s/18jcWe)
 <br/>
 
 
 <BR/>
-> 特性
+> #特性
 
  - 全矢量图标  （Vector : PSD、EPS、SVG)
- - 覆盖主流网站图标（164 icons）
+ - 覆盖主流网站图标（189 icons）
  - 大量中国国内网站图标（A lot of China network social icon）
  - 提供各种风格的[示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)（Provide [Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample) ：PSD、PNG）
  
+<br/>
 <br/>
 <br/>
 
@@ -43,6 +46,42 @@ now **161** vector Icons  | 161 个国内外社交网站矢量图标
 <br/>
 <br/>
 >历史
+
+-  Ver **2.0** (2015/6/22)
+<br/>加上本次增加的 3 个 LOGO，目前共有 164 个LOGO 了；
+<br/>增加 (Main_2_[MX].psd)[https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd] 方便制作成品图标
+<br/>(Main_2_[MX].psd)[https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd] 和新的 [sample_flat2](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)根据 64 px 为基准(依然是矢量的)对齐了像素
+![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_1.png)
+
+
+<br/>增加 28 个新图标，总数增加到 189 个；
+- xiami music app - 虾米音乐 app
+- Alibabai Aliyun - 阿里巴巴 阿里云
+- Alibabai Alipay - 阿里巴巴 支付宝
+- Alibabai Laiwang - 阿里巴巴 来往
+- gold.xitu.io - 稀土 掘金
+- xitu.io - 稀土
+- douban Read - 豆瓣阅读
+- coolapk.com CoolMarket - 酷安网 酷市场
+- wandoujia.com - 豌豆荚
+- baidu shouji - 手机助手
+- Qihoo 360 sj - 360 手机助手
+- tencent tmyapp - 腾讯应用宝
+- kingsoft wps office - 金山 WPS
+- Qihoo 360 yunpan nwe - 360云盘 新版
+- xiaomi - 小米
+- Uber
+- spotify.com
+- steam game
+- Google Play
+- Windows Store App
+- Microsoft Zune
+- Microsoft Outlook
+
+
+
+
+
 
  - Ver **1.3** (2014/12/31)
 重新转换了不带剪切蒙版 SVG 格式 解决在一些 Icon font 制作平台无法使用带剪切蒙版SVG的问题；
@@ -215,6 +254,21 @@ now **161** vector Icons  | 161 个国内外社交网站矢量图标
   - youku - 优酷
   - ZAKER - ZAKER
   - zhihu - 知乎
+  - xiami music app - 虾米音乐 app
+  -  Alibabai Aliyun - 阿里巴巴 阿里云
+  - Alibabai Alipay - 阿里巴巴 支付宝
+  - Alibabai Laiwang - 阿里巴巴 来往
+  -  gold.xitu.io - 稀土 掘金
+  - xitu.io - 稀土
+  - douban Read - 豆瓣阅读
+  - coolapk.com CoolMarket - 酷安网 酷市场
+  - wandoujia.com - 豌豆荚
+  - baidu shouji - 手机助手
+  - Qihoo 360 sj - 360 手机助手
+  - tencent tmyapp - 腾讯应用宝
+  - kingsoft wps office - 金山 WPS
+  - Qihoo 360 yunpan nwe - 360云盘 新版
+  - xiaomi - 小米
 <br/>
  - POP 
   - 1x 
@@ -268,6 +322,13 @@ now **161** vector Icons  | 161 个国内外社交网站矢量图标
   - Wikipedia - 维基百科
   - WordPress
   - YouTube
+  - Uber
+  - spotify.com
+  - steam game
+  - Google Play
+  - Windows Store App
+  - Microsoft Zune
+  - Microsoft Outlook
  <br />
 
  - JP
