@@ -62,7 +62,8 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 <br/>[Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 和新的 [sample_flat2](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)根据 64 px 为基准(依然是矢量的)对齐了像素
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_1.png)
 
-<br/>更新 [Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：[Sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)
+<br/>更新 [示例 Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：[Sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)
+![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_flat_2/cover.png)
 
 
 <br/>增加 28 个新图标，总数增加到 189 个；
@@ -88,11 +89,8 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 - Windows Store App
 - Microsoft Zune
 - Microsoft Outlook
+- 
 <br/>
-
-
-
-
 
 
  - Ver **1.3** (2014/12/31)
@@ -171,7 +169,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 > 收录图标列表 
 
-共 164 个 （v1.3 - 2014/12/31) [预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
+共 189 个 （v2.0 - 2014/12/31) [预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
 
  - OS 
   - Xbox 
