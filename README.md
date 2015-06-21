@@ -36,9 +36,14 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 - 1.矢量图标
 <BR/>
-只有轮廓的矢量图标。
-所有矢量图标集中存放在[Main_[All_in_One].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd)中，[eps](https://github.com/nullice/NViconsLib_Silhouette/tree/master/eps)、[png](https://github.com/nullice/NViconsLib_Silhouette/tree/master/png)、[psd](https://github.com/nullice/NViconsLib_Silhouette/tree/master/psd)、[svg](https://github.com/nullice/NViconsLib_Silhouette/tree/master/svg)文件夹中是各个矢量图标单独保存的副本。
-另外 (Main_2_[MX].psd)[https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd] 中存放着平铺排列的所有图标，而且有配色和阴影、底部等效果的模板，并已经有切片可以简单调整就可以用导出为[示例 sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)中的效果
+![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_4.png)
+
+[**Main_[All_in_One].psd**](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd) 中放在着所有矢量图标
+[eps](https://github.com/nullice/NViconsLib_Silhouette/tree/master/eps)、[png](https://github.com/nullice/NViconsLib_Silhouette/tree/master/png)、[psd](https://github.com/nullice/NViconsLib_Silhouette/tree/master/psd)、[svg](https://github.com/nullice/NViconsLib_Silhouette/tree/master/svg) 文件夹中是 [Main_[All_in_One].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd) 中各个矢量图标单独保存的副本。
+<BR/>
+[**Main_2_[MX].psd**](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd)
+中存放着平铺排列的所有图标，而且有配色和阴影、底部等效果的模板，并已经有切片可以简单调整就可以用导出为[示例 sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)中的效果
+
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_2.png)
 
 
@@ -53,9 +58,11 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 -  Ver **2.0** (2015/6/22)
 <br/>加上本次增加的 3 个 LOGO，目前共有 164 个LOGO 了；
-<br/>增加 (Main_2_[MX].psd)[https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd] 方便制作成品图标
-<br/>(Main_2_[MX].psd)[https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd] 和新的 [sample_flat2](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)根据 64 px 为基准(依然是矢量的)对齐了像素
+<br/>增加 [Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 方便制作成品图标
+<br/>[Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 和新的 [sample_flat2](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)根据 64 px 为基准(依然是矢量的)对齐了像素
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_1.png)
+
+<br/>更新 [Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：[Sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)
 
 
 <br/>增加 28 个新图标，总数增加到 189 个；
@@ -81,6 +88,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 - Windows Store App
 - Microsoft Zune
 - Microsoft Outlook
+<br/>
 
 
 
