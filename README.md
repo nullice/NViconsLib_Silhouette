@@ -1,4 +1,4 @@
-#**NViconsLib**_Silhouette#
+#**NViconsLib** 2 #
  
 ![cover](https://github.com/nullice/NViconsLib_Silhouette/raw/master/cover/github_cover_V2.0_720.png)
 
@@ -7,7 +7,7 @@ vector PSD and SVG Global Network Social Icon (Especially China )
 now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 ----
-2132122
+
 ![2222](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_%E9%98%B4%E5%BD%B1_%E6%9E%81%E6%B5%85/64px/Technorati.png)
 
 制作网页、UI时 常常会用到一些社交网站比如微博、微信、Facebook、Dribbble 的 LOGO，国际化的网站往往都提供了官方的矢量 LOGO。而国内网站除了腾讯、新浪、阿里巴巴等少数提供了官方的矢量 LOGO，其他的连一张尺寸大点的 LOGO 图片都很难寻找。
@@ -38,6 +38,10 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 <BR/>
 只有轮廓的矢量图标。
 所有矢量图标集中存放在[Main_[All_in_One].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd)中，[eps](https://github.com/nullice/NViconsLib_Silhouette/tree/master/eps)、[png](https://github.com/nullice/NViconsLib_Silhouette/tree/master/png)、[psd](https://github.com/nullice/NViconsLib_Silhouette/tree/master/psd)、[svg](https://github.com/nullice/NViconsLib_Silhouette/tree/master/svg)文件夹中是各个矢量图标单独保存的副本。
+另外 (Main_2_[MX].psd)[https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd] 中存放着平铺排列的所有图标，而且有配色和阴影、底部等效果的模板，并已经有切片可以简单调整就可以用导出为[示例 sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)中的效果
+![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_2.png)
+
+
 
 - 2.示例(Sample)
 <BR/>
