@@ -63,6 +63,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_1.png)
 
 <br/>更新 [示例 Sample](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)：[Sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)
+
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_flat_2/cover.png)
 
 
@@ -89,9 +90,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 - Windows Store App
 - Microsoft Zune
 - Microsoft Outlook
-- 
 <br/>
-
 
  - Ver **1.3** (2014/12/31)
 重新转换了不带剪切蒙版 SVG 格式 解决在一些 Icon font 制作平台无法使用带剪切蒙版SVG的问题；
