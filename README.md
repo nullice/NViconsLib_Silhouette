@@ -8,8 +8,6 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 ----
 
-![2222](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_%E9%98%B4%E5%BD%B1_%E6%9E%81%E6%B5%85/64px/Technorati.png)
-
 制作网页、UI时 常常会用到一些社交网站比如微博、微信、Facebook、Dribbble 的 LOGO，国际化的网站往往都提供了官方的矢量 LOGO。而国内网站除了腾讯、新浪、阿里巴巴等少数提供了官方的矢量 LOGO，其他的连一张尺寸大点的 LOGO 图片都很难寻找。
 
 这个项目目的是收集各个社交网站 LOGO 的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的 LOGO 大多数都是自行绘制而非官方发布的。
@@ -59,7 +57,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 >#历史
 
 -  Ver **2.0** (2015/6/22)
-<br/>加上本次增加的 3 个 LOGO，目前共有 164 个LOGO 了；
+<br/>增加 28 个新图标，总数增加到 189 个；
 <br/>增加 [Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 方便制作成品图标；
 <br/>[Main_2_[MX].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd) 和新的 [sample_flat_2 ](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_flat_2)根据 64 px 为基准(依然是矢量的)对齐了像素；
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_1.png)
@@ -68,7 +66,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_flat_2/cover.png)
 
-<br/>增加 28 个新图标，总数增加到 189 个；
+
 
 <br/>
 
