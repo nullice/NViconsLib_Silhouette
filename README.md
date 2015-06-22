@@ -146,7 +146,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 > 收录图标列表 
 
-共 189 个 （v2.0 - 2014/12/31) [预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
+共 189 个 （v2.0 - 2015/6/22) [预览图](http://github.com/nullice/NViconsLib_Silhouette/raw/master/previwe.png)
 
  - OS 
   - Xbox 
