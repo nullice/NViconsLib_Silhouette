@@ -1,4 +1,4 @@
-#**NViconsLib** 2 #
+﻿#**NViconsLib** 2 #
  
 ![cover](https://github.com/nullice/NViconsLib_Silhouette/raw/master/cover/github_cover_V2.0_720.png)
 
