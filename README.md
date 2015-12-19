@@ -38,7 +38,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 <BR/>
 ![](https://github.com/nullice/NViconsLib_Silhouette/raw/master/info/readme_img_4.png)
 
-[**Main_[All_in_One].psd**](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd) 中放在着所有矢量图标
+[**Main_[All_in_One].psd**](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd) 中放在着所有矢量图标  
 [eps](https://github.com/nullice/NViconsLib_Silhouette/tree/master/eps)、[png](https://github.com/nullice/NViconsLib_Silhouette/tree/master/png)、[psd](https://github.com/nullice/NViconsLib_Silhouette/tree/master/psd)、[svg](https://github.com/nullice/NViconsLib_Silhouette/tree/master/svg) 文件夹中是 [Main_[All_in_One].psd](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_%5BAll_in_One%5D.psd) 中各个矢量图标单独保存的副本。
 <BR/>
 [**Main_2_[MX].psd**](https://github.com/nullice/NViconsLib_Silhouette/blob/master/Main_2_%5BMX%5D.psd)
@@ -104,8 +104,6 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 <BR/>
 1.[sample_0](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_0)
 <BR/>
-![sample_0](http://raw.github.com/nullice/NViconsLib_Silhouette/master/Sample/sample_0/cover.png)
-<BR/>
 2.[sample_轻荷](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample/sample_%E8%BD%BB%E8%8D%B7)
 <BR/>
 ![sample_轻荷](http://raw.github.com/nullice/NViconsLib_Silhouette/master/Sample/sample_%E8%BD%BB%E8%8D%B7/cover.png)
@@ -134,7 +132,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 图标收集\制作 **nullice** - [blog: Styletin.com](http://Styletin.com)
 
-[![dribble](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_399.png)](https://dribbble.com/nullice) [![deviantart](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_397.png)](http://nullice.deviantart.com/) [![behance](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_401.png)](https://www.behance.net/nullice) [![behance](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_403.png)](https://jypg.net/nullice) [![ui.cn](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_405.png)](http://www.ui.cn/user.php?id=100796) [![uehtml](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_437.png)](http://www.uehtml.com/user/12911/) [![github](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_453.png)](https://github.com/nullice) [![twitter](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_617.png)](https://twitter.com/nullice) [![weibo](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_267.png)](http://weibo.com/nullice) [![lofter](https://github.com/nullice/NViconsLib_Silhouette/raw/master/Sample/sample_0/32px/sample_O_109.png)](http://www.lofter.com/notice/nullice) 
+[![dribble](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/Dribbble.png)](https://dribbble.com/nullice) [![behance](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/Behance.png)](https://www.behance.net/nullice) [![jypg](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/jaypeg.png)](https://jypg.net/nullice) [![ui.cn](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/ui.cn.png)](http://www.ui.cn/user.php?id=100796)  [![github](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/GitHub.png)](https://github.com/nullice) [![twitter](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/Twitter%20-%E6%8E%A8%E7%89%B9.png)](https://twitter.com/nullice) [![weibo](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/sina%20-%E6%96%B0%E6%B5%AA_weibo%20-%E5%BE%AE%E5%8D%9A.png)](http://weibo.com/nullice) [![lofter](https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/Sample/sample_flat_2/%E5%9C%86%E5%BD%A2_/32px/NetEase%20-%E7%BD%91%E6%98%93_lofter.png)](http://www.lofter.com/notice/nullice) 
 
 
 
