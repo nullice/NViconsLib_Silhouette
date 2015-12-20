@@ -15,8 +15,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 中国大陆访问 Github 较慢，故提供**网盘下载**： [NViconsLib_Silhouette_189_Ver2.0](http://pan.baidu.com/s/1mgnC3I4)
 <br/>
 
-
-<BR/>
+<br/>
 > #特性
 
  - 全矢量图标  （Vector : PSD、EPS、SVG)
