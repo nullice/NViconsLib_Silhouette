@@ -2,7 +2,7 @@
  
 ![cover](https://github.com/nullice/NViconsLib_Silhouette/raw/master/cover/github_cover_V2.0_720.png)
 
-vector PSD and SVG Global Network Social Icon (Especially China )
+vector PSD and SVG Global Network Social Icon (Especially China)
 
 now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
@@ -12,7 +12,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 这个项目目的是收集各个社交网站 LOGO 的矢量剪影(Silhouette)图标，如果没有官方发布的版本，就自行绘制。其中国内的网站的 LOGO 大多数都是自行绘制而非官方发布的。
 <br/>
-中国大陆访问 Github 较慢，故提供**网盘下载**： [NViconsLib_Silhouette_189_Ver2.0](http://pan.baidu.com/s/1mgnC3I4)
+中国大陆访问 GitHub 较慢，故提供**网盘下载**： [NViconsLib_Silhouette_189_Ver2.0](http://pan.baidu.com/s/1mgnC3I4)
 <br/>
 
 <br/>
