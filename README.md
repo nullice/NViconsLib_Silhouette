@@ -47,7 +47,7 @@ now **189** vector Icons  | 189 个国内外社交网站矢量图标
 
 
 
-- 2.示例(Sample)
+- 2.示例(Sample ! Will guarantee like it)
 <BR/>
 [示例](https://github.com/nullice/NViconsLib_Silhouette/tree/master/Sample)是使用本项目图标制作的带效果的成品，带有PSD或AI源文件和已经导出可供直接使用的各尺寸 PNG 位图。
 
